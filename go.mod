@@ -1,4 +1,4 @@
-module github.com/whereswaldon/graphql
+module github.com/ibm-whitewater/graphql
 
 go 1.13
 
